@@ -405,8 +405,7 @@
 </head>
 
 <body class="antialiased">
-    <h1>Welcome {{ $name }}</h1>
-    <h2>I'm {{ $age }} years old</h2>
+    <h1>About us</h1>
 </body>
 
 </html>
