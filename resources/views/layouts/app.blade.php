@@ -407,7 +407,7 @@
 </head>
 
 <body class="antialiased">
-    <div>
+    <div class="container">
         @yield('content')
     </div>
 </body>

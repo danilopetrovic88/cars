@@ -16,7 +16,7 @@ class CarsController extends Controller
 
     public function show($id)
     {
-        $car = Car::find($id);
+        $car = Car::findOrFail($id);
 
         return view('car', compact('car'));
     }

@@ -10,7 +10,7 @@ Home
     <nav class="navbar navbar-expand navbar-light bg-light">
         <ul class="navbar-nav">
             <li class="nav-item">
-                <a href="/cars" class="nav-link">All cars</a>
+                <a href="/cars" class="btn btn-primary">All cars</a>
             </li>
         </ul>
     </nav>
